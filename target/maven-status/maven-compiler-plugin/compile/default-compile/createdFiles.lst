@@ -1,0 +1,8 @@
+com/bank/balanceAggregator/BalanceAggregatorApplication.class
+com/bank/balanceAggregator/service/TransactionClientService.class
+com/bank/balanceAggregator/service/DummyTransactionClientImpl.class
+com/bank/balanceAggregator/util/DateUtil.class
+com/bank/balanceAggregator/controller/CustomerController.class
+com/bank/balanceAggregator/service/BalanceServiceImpl.class
+com/bank/balanceAggregator/service/BalanceService.class
+com/bank/balanceAggregator/domain/Transaction.class

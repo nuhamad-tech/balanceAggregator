@@ -1,0 +1,8 @@
+/home/mabd/balanceAggregator/src/main/java/com/bank/balanceAggregator/service/BalanceServiceImpl.java
+/home/mabd/balanceAggregator/src/main/java/com/bank/balanceAggregator/service/TransactionClientService.java
+/home/mabd/balanceAggregator/src/main/java/com/bank/balanceAggregator/domain/Transaction.java
+/home/mabd/balanceAggregator/src/main/java/com/bank/balanceAggregator/BalanceAggregatorApplication.java
+/home/mabd/balanceAggregator/src/main/java/com/bank/balanceAggregator/controller/CustomerController.java
+/home/mabd/balanceAggregator/src/main/java/com/bank/balanceAggregator/service/BalanceService.java
+/home/mabd/balanceAggregator/src/main/java/com/bank/balanceAggregator/service/DummyTransactionClientImpl.java
+/home/mabd/balanceAggregator/src/main/java/com/bank/balanceAggregator/util/DateUtil.java
