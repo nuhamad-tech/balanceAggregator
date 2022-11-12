@@ -28,5 +28,5 @@ http://localhost:7070/customer/{customerId}/cumulativeBalance
 
 ## Notes
 - cutomerId: customer1, customer2, customer3... 
-- Dummy Data Service was created to represent Transactions Data (amount and date). To view it click <a href="https://github.com/nuhamad-tech/balanceAggregator/blob/master/src/main/java/com/bank/balanceAggregator/service/DummyTransactionClientImpl.java target=_blank"> Here </a>
+- Dummy Data Service was created to represent Transactions Data (amount and date). To view it click [here](src/main/java/com/bank/balanceAggregator/service/DummyTransactionClientImpl.java)
 - The application was tested using unit testing for the BalanceService
