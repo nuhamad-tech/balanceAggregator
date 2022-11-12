@@ -21,7 +21,7 @@ mvn spring-boot:run
 ```shell
 http://localhost:7070/customer/{customerId}/monthlyBalance
 ```
-4. You can view __cumulativeBalance__ Service sending a GET request to:
+4. You can view __cumulativeBalance__ by sending a GET request to:
 ```shell
 http://localhost:7070/customer/{customerId}/cumulativeBalance
 ```
